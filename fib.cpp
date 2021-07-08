@@ -4,6 +4,7 @@
 
 int main(){
     int up_to;
+    printf("enter num");
     std::cin >> up_to;
 
     int fib1 = 0;
